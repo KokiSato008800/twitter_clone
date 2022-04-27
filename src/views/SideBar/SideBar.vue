@@ -82,6 +82,7 @@ export default {
 }
 /* サイドバーメインコンテンツ */
 .sidebar-main-item {
+  
   height: 75px;
   border-bottom: 1px solid rgba(0,0,0,0.1);
   display: flex;
